@@ -15,7 +15,9 @@ Well he knew my name from there. And I knew his. Though he didn't keep his as a 
 After all that. He just straight told them my name and probably more.
 Honestly I knew this was gonna happen.
 "Why would someone learn programming to make stupid plugins to a game" I said not realising I was talking about myself.
-Correct. The course was as introduction to C#. The language of scp sl plugins.
+Correct. The course was an introduction to C#. The language of scp sl plugins.
+If i never went there nothing like this would happen.
+I blame you for this._
 
 
 At the time I'm writing this, I was messaged my name from a friend.
@@ -31,7 +33,7 @@ Not only they destroyed everything I made, but even expected me to keep working 
 
 ## present
 I don't know what will be next. Do I apologize? Why would I?
-They a lot from me.
+They took a lot from me.
 Now I'll show them.
 
 
